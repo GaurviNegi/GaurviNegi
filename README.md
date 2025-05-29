@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN** & **Spring Boot**
 
-- 🌱 I’m currently learning **react.js , next.js , node.js , ai-ml**
+- 🌱 I’m currently learning **react.js , next.js , node.js , ai-ml , spring boot**
 
 - 👯 I’m looking to collaborate on **web based projects**
 
