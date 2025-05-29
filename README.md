@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurvi Negi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **MERN** & **Spring Boot**
 
 - 🌱 I’m currently learning **react.js , next.js , node.js , ai-ml**
 
